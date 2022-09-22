@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm つるつる</h1>
 <h3 align="center">フロントエンドを中心、最近はバックエンド、Flutterでの開発も行なってます！</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turu0512)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turu0512&show_icons=true&theme=radical)
 <p align="left">
 </p>
 
