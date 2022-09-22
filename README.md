@@ -2,6 +2,7 @@
 <h3 align="center">フロントエンドを中心、最近はバックエンド、Flutterでの開発も行なってます！</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turu0512&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turu0512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 </p>
 
