@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm つるつる</h1>
-<h3 align="center">フロントエンドを中心、最近はバックエンド、Flutterでの開発も行なってます！</h3>
+<h3 align="center">以前はフロント、現在はRails使って開発してます！</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turu0512&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turu0512&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
