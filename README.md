@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm つるつる</h1>
-<h3 align="center">以前はフロント、現在はRails使って開発してます！</h3>
+<h1>Hi 👋, I'm つるつる</h1>
+  <p>以前はフロント、現在はRails使って開発しています！</p>
+  <p>朝活や普段感じたことを <a href="https://note.com/hinataptyan/" target="_blank" style="color: #00bfff; text-decoration: underline;">Note</a> にて発信しています！</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turu0512&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turu0512&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
